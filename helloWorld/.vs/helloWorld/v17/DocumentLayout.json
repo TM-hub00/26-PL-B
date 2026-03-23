@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\hansung_PL\\practice\\helloWorld\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{52A03E8B-394D-4820-BDE7-1F0B5B3672B5}|helloWorld.vcxproj|C:\\hansung_PL\\practice\\helloWorld\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{52A03E8B-394D-4820-BDE7-1F0B5B3672B5}|helloWorld.vcxproj|solutionrelative:main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\hansung_PL\\practice\\helloWorld\\main.c",
+              "RelativeDocumentMoniker": "main.c",
+              "ToolTip": "C:\\hansung_PL\\practice\\helloWorld\\main.c",
+              "RelativeToolTip": "main.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-03-16T03:37:51.931Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
